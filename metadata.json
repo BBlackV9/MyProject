@@ -1,0 +1,6 @@
+{
+  "name": "ลอยกระทงออนไลน์ - Loy Krathong Festival",
+  "description": "ร่วมสืบสานประเพณีลอยกระทงออนไลน์ ตกแต่งกระทงตามใจ ขอพรพระแม่คงคา และร่วมลอยในสายน้ำใต้แสงจันทร์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
